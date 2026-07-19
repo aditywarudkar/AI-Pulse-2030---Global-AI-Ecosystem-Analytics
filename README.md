@@ -162,13 +162,11 @@ AI Pulse 2030 - Global AI Ecosystem
 
 | AI Tools Dashboard | Power BI |  ✅ Completed |
 
-| Student AI Adoption | Power BI | 🚧 In Progress |
+| Student AI Adoption | Power BI | ✅ Completed |
 
-| Education Dashboard | Power BI | 🚧 In Progress |
+| GitHub Analytics | Power BI | ✅ Completed |
 
-| GitHub Analytics | Power BI | 🚧 In Progress |
-
-| Future Workforce | Power BI | 🚧 In Progress |
+| Future Workforce | Power BI | ✅ Completed |
 
 | Executive Excel Dashboard | Excel | ✅ Completed |
 
@@ -198,28 +196,21 @@ AI Pulse 2030 - Global AI Ecosystem
   <img src="Dashboards%20Screenshots/AIToolsIntelligence.jpg" alt="AI Tools Intelligence" width="100%">
 </p>
 
+---
 
-## Upcoming Dashboards
+<p align="center">
+  <img src="Dashboards%20Screenshots/StudentAIAdoption.jpg" alt="Student AI Adoption.jpg" width="100%">
+</p>
 
+---
 
-🚧 Workforce Dashboard
+<p align="center">
+  <img src="Dashboards%20Screenshots/FutureWorkforce2030.jpg" alt="Future Work 2030.jpg" width="100%">
+</p>
 
-
-
-🚧 Education Dashboard
-
-
-
-🚧 Global Insights Dashboard
-
-
-
-🚧 Future Trends Dashboard
-
-
-
-Dashboard previews will be uploaded as development progresses.
-
+<p align="center">
+  <img src="Dashboards%20Screenshots/GitHubAnalytics.jpg" alt="GitHub Analytics.jpg" width="100%">
+</p>
 
 
 ---
@@ -384,11 +375,10 @@ Project documentation includes:
 
 * MIT License
 
-* Project Report *(In Progress)*
+* Project Report
+* 
+* Project Presentation 
 
-* Project Presentation *(In Progress)*
-
-* Data Dictionary *(Coming Soon)*
 
 
 
